@@ -9,7 +9,7 @@ fmt.Println(c,Name, "run")
 
 func main(){
   car := Car{
-    Name:"1Tesla",
+    Name:"Tesla model 3",
   }
   car.run()
 
